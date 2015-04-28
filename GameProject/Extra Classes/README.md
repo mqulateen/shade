@@ -1,0 +1,2 @@
+# Player shooting ability
+This is an extra class that works perfectly well when put in the game. I took it out for now because I didn't want to complicate the game too much. Can be added back and should work as excepted.

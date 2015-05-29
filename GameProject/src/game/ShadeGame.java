@@ -8,7 +8,7 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 import javax.swing.*;
 
 /**
- * Shade by Mohamed Qulateen - ABSK259.
+ * Shade by Mohamed Qulateen
  * ShadeGame is the main class
  */
 public class ShadeGame {
